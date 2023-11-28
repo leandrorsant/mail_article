@@ -1,0 +1,6 @@
+POST http://localhost:8000/api/subscribe
+Content-Type: application/json
+
+{
+    "email":"email@gmail.com"
+}
